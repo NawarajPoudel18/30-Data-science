@@ -10,3 +10,6 @@ def div(a,b):
 def sub(a,b):
   return a-b
 
+def c_to_f(c):
+ return c*1.8+32
+
