@@ -1,4 +1,4 @@
-import modules #this is the module being called here
+from modules import c_to_f #this is the module being called here
 
 # print(modules.hello("nawaraj"))
 # print(modules.add(1,9))
@@ -6,4 +6,7 @@ import modules #this is the module being called here
 # print(modules.div(1,9))
 # print(modules.mul(1,9))
 
-print(modules.c_to_f(10))
+print(c_to_f(10))
+
+
+
