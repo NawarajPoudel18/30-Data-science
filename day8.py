@@ -16,3 +16,11 @@ print(m.c_to_f(10))  #this is being called from "import modules as m"
 
 
 
+import math
+number=5
+total= math.factorial(number)
+print(total)
+print(dir(math)) # it shows which and how many function can be used in this module
+print(dir(modules)) # it shows which and how many function can be used in this module
+
+ 
