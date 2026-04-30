@@ -1,1 +1,1 @@
-<h1>This is the repo which contains the source code of the data science class attented by mahakavi devkota campus students using the jupyter extension in vs code<h1>
+<h1>This is the repo which contains the source code of the data science class attented by mahakavi devkota campus students using the jupyter extension in vs code<h1> 
